@@ -47,7 +47,21 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 **Screenshot:**
 
-<img src="screenshot/php-version.png" alt="PHP version screenshot" width="700">
+<img src="screenshot/Php-version.png" alt="PHP version screenshot" width="700">
+
+## Step 2: Install Composer
+
+1. Download the Composer installer from the official Composer website.
+2. Run the installer and ensure it is configured to use the installed PHP executable.
+3. Verify the installation by running:
+
+**composer -v or composer --version**
+
+4. Confirm that the Composer version is displayed.
+
+**Screenshot:**
+
+<img src="screenshot/composer-version.png" alt="Composer version screenshot" width="700">
 
 ## References
 
