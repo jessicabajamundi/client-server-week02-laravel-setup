@@ -1,4 +1,4 @@
-# Hello Laravel: Client-Server Web Application
+<h1 align="center">Hello Laravel: Client-Server Web Application</h1>
 
 ## Brief Overview of Laravel
 
