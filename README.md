@@ -41,16 +41,13 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 2. Install PHP on the local machine.
 3. Open Command Prompt and verify the installation using:
 
-   **php -v or php --version**
+**php -v or php --version**
 
 4. Confirm that the installed PHP version is displayed.
 
-<table>
-  <tr>
-    <td><img src="screenshot/php-version.png" alt="PHP version screenshot" width="600"></td>
-    <td><strong>Screenshot</strong></td>
-  </tr>
-</table>
+**Screenshot:**
+
+<img src="screenshot/php-version.png" alt="PHP version screenshot" width="700">
 
 ## References
 
