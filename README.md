@@ -45,8 +45,6 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 4. Confirm that the installed PHP version is displayed.
 
-Verified PHP Version: **PHP 8.2.12**
-
 **Screenshot:**
 
 <img src="screenshot/php-version.png" alt="PHP version screenshot" width="700">
