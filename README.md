@@ -1,4 +1,4 @@
-# Laravel Project
+# Hello Laravel: Client-Server Web Application
 
 ## Brief Overview of Laravel
 
