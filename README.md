@@ -14,6 +14,15 @@ Client-server technologies are important because they allow users and systems to
 
 The purpose of this project is to demonstrate the basic setup and use of a Laravel application as part of learning client-server technologies. It shows how a Laravel project is installed, opened in Visual Studio Code, run on a local development server, and documented with screenshots. This project also helps build familiarity with common development tools such as PHP, Composer, Git, MySQL, and GitHub.
 
+## Objectives
+
+- Installed and verified the required development tools, including PHP, Composer, Git, MySQL, and Visual Studio Code.
+- Created and configured a Laravel project for local web application development.
+- Opened the Laravel project in Visual Studio Code to view and manage the project files.
+- Ran the Laravel application using the local development server.
+- Customized and documented the Laravel project using a project README file.
+- Uploaded project files and screenshots to GitHub using meaningful commit messages.
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
