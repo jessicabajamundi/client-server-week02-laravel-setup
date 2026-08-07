@@ -23,6 +23,16 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 - Customized and documented the Laravel project using a project README file.
 - Uploaded project files and screenshots to GitHub using meaningful commit messages.
 
+## Development Environment
+
+- Operating System: Windows 10 Home Single Language 25H2, Build 26200
+- PHP Version: PHP 8.2.12
+- Laravel Version: Laravel Framework 12.65.0
+- Composer Version: Composer 2.10.2
+- Git Version: Git 2.55.0.windows.3
+- MySQL Version: MariaDB 10.4.32
+- VS Code Version: Visual Studio Code 1.132.0
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
