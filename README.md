@@ -45,6 +45,13 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 4. Confirm that the installed PHP version is displayed.
 
+<table>
+  <tr>
+    <td><img src="screenshot/php-version.png" alt="PHP version screenshot" width="600"></td>
+    <td><strong>Screenshot</strong></td>
+  </tr>
+</table>
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
