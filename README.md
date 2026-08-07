@@ -47,7 +47,7 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 **Screenshot:**
 
-<img src="screenshot/Php-version.png" alt="PHP version screenshot" width="700">
+<img src="screenshot/php-version.png" alt="PHP version screenshot" width="700">
 
 ## Step 2: Install Composer
 
