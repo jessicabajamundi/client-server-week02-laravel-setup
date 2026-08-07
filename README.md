@@ -26,7 +26,7 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 ## Development Environment
 
 - Operating System: Windows 10 Home Single Language 25H2, Build 26200
-- PHP Version: PHP 8.2.12 (**php -v or php --version**)
+- PHP Version: PHP 8.2.12
 - Laravel Version: Laravel Framework 12.65.0
 - Composer Version: Composer 2.10.2
 - Git Version: Git 2.55.0.windows.3
