@@ -39,17 +39,7 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 1. Download the latest stable version of PHP from the official PHP website.
 2. Install PHP on the local machine.
-3. Open Command Prompt and verify the installation using:
-
-```bash
-php -v
-```
-
-or
-
-```bash
-php --version
-```
+3. Open Command Prompt and verify the installation using **php -v or php --version**.
 
 4. Confirm that the installed PHP version is displayed.
 
