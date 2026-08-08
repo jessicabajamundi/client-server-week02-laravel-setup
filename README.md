@@ -138,6 +138,13 @@ For a simple installation, you can leave the default settings and keep clicking:
 - **config/** - Contains configuration files for the application, including settings for the app, database, mail, services, and other Laravel features.
 - **database/** - Contains database migrations, seeders, and factories used to create and manage database tables and test data.
 
+## Problems Encountered
+
+- PHP missing file
+- PHP PATH issue
+- Some commands are missing
+- MySQL not reading the port
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
