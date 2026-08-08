@@ -129,6 +129,15 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 <img src="screenshot/vscode.png" alt="VS Code Laravel project screenshot" width="700">
 
+## Project Structure
+
+- **app/** - Contains the main application code, including models, controllers, and other PHP classes used to build the system.
+- **routes/** - Contains route files that define the URLs of the application and connect them to controllers or views.
+- **resources/** - Contains the application's views, Blade templates, CSS, JavaScript, and other frontend resources.
+- **public/** - Contains files that are directly accessible from the browser, such as `index.php`, images, CSS, and JavaScript files.
+- **config/** - Contains configuration files for the application, including settings for the app, database, mail, services, and other Laravel features.
+- **database/** - Contains database migrations, seeders, and factories used to create and manage database tables and test data.
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
