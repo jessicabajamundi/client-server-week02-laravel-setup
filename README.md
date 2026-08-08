@@ -151,6 +151,15 @@ For a simple installation, you can leave the default settings and keep clicking:
 - **config/** - Contains configuration files for the application, including settings for the app, database, mail, services, and other Laravel features.
 - **database/** - Contains database migrations, seeders, and factories used to create and manage database tables and test data.
 
+## Installation Screenshots
+
+- `screenshot/php-version.png` - PHP version verification
+- `screenshot/composer-version.png` - Composer version verification
+- `screenshot/laravel-version.png` - Laravel Installer verification
+- `screenshot/git-version.png` - Git version verification
+- `screenshot/mysql-version.png` - MySQL version verification
+- `screenshot/vscode.png` - Laravel project opened in Visual Studio Code
+
 ## Problems Encountered
 
 - PHP missing file
