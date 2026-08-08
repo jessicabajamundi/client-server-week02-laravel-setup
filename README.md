@@ -99,6 +99,10 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 **git --version**
 
+**Screenshot:**
+
+<img src="screenshot/git-version.png" alt="Git version screenshot" width="700">
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
