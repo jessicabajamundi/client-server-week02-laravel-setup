@@ -149,8 +149,24 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 The solution I used was to use AI for assistance. I also watched clips on TikTok and YouTube about how to properly install the required software.
 
+## Reflection
+
+In this project, I learned how to set up a Laravel application, but that is not all. I also learned the basic structure of a client-server web application. I learned that Laravel is not just a tool for writing PHP code, but a complete framework that organizes the development process. Through the installation and setup, I became more familiar with important tools such as PHP, Composer, Git, MySQL, and Visual Studio Code.
+
+The challenges I encountered were some unexpected errors that made my mind go crazy, but at the same time, I learned so much about how to properly understand an error. For example, in my PHP setup, there were some missing files like `php.exe`, and there were also some missing commands. With the help of AI and some tutorials, I was able to identify the problems and find appropriate solutions.
+
+Since Laravel is easy to use, it is popular among developers. Laravel is a PHP web application framework used to build modern websites and web applications. It provides ready-made tools and features for common tasks such as routing, database management, and authentication, which makes web development more organized, secure, and easier to maintain.
+
+This knowledge will help me in future software development projects because I now understand the basic steps needed to prepare a development environment and run a web application locally. I also learned how to troubleshoot common setup problems, which is an important skill for any developer. In future projects, I can use Laravel to create more organized web applications and apply what I learned about client-server communication, database configuration, and project documentation. This experience also gave me more confidence to explore new tools, read errors carefully, and continue improving my skills as I build more projects. It also reminded me that patience is important when learning programming.
+
 ## References
 
-Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
+Composer. (n.d.). *Introduction*. Composer documentation. https://getcomposer.org/doc/00-intro.md
+
+Git. (n.d.). *Git documentation*. https://git-scm.com/doc
+
+Laravel. (n.d.). *Installation*. Laravel documentation. https://laravel.com/docs/12.x
 
 MDN Web Docs. (2025, June 23). *Client-server overview*. MDN. https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
+
+PHP. (n.d.). *Installation and configuration*. PHP manual. https://www.php.net/manual/en/install.php
