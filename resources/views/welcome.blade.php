@@ -83,8 +83,8 @@
     </style>
 </head>
 <body>
-    <main>
-        <h1>
+    <main aria-labelledby="page-title">
+        <h1 id="page-title">
             <span class="wave-icon" aria-label="Waving hand" role="img">&#128075;</span>
             Hello Laravel!
         </h1>
