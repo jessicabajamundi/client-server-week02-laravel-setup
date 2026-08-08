@@ -37,15 +37,6 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 - MySQL Version: MariaDB 10.4.32
 - VS Code Version: Visual Studio Code 1.132.0
 
-## Required Software
-
-- PHP
-- Composer
-- Laravel Installer
-- Git
-- MySQL or MariaDB
-- Visual Studio Code
-
 ## Installation Steps
 
 ## Step 1: Install PHP
