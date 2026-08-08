@@ -145,6 +145,10 @@ For a simple installation, you can leave the default settings and keep clicking:
 - Some commands are missing
 - MySQL not reading the port
 
+## Solution
+
+The solution I used was to use AI for assistance. I also watched clips on TikTok and YouTube about how to properly install the required software.
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
