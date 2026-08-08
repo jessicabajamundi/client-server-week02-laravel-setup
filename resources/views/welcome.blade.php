@@ -91,8 +91,8 @@
         <p>Welcome to Client-Server Technologies.</p>
 
         <div class="details">
-            <p class="label">Developed by: Jessica</p>
-            <p>Student Name : Jessica Pambago</p>
+            <p class="label">Developed by: Jessie</p>
+            <p>Student Name : Jessica Bajamundi</p>
             <p>Course: BSIT</p>
             <p>Section 3B</p>
         </div>
