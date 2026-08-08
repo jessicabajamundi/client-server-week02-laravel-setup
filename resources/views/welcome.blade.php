@@ -30,6 +30,40 @@
             margin: 0 0 16px;
             color: #ff2d20;
             font-size: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+
+        .wave-icon {
+            display: inline-block;
+            font-size: 42px;
+            line-height: 1;
+            transform-origin: 70% 70%;
+            animation: wave 1.6s ease-in-out infinite;
+        }
+
+        @keyframes wave {
+            0%, 100% {
+                transform: rotate(0deg);
+            }
+
+            20% {
+                transform: rotate(18deg);
+            }
+
+            40% {
+                transform: rotate(-10deg);
+            }
+
+            60% {
+                transform: rotate(14deg);
+            }
+
+            80% {
+                transform: rotate(-6deg);
+            }
         }
 
         p {
@@ -50,7 +84,10 @@
 </head>
 <body>
     <main>
-        <h1>Hello Laravel!</h1>
+        <h1>
+            <span class="wave-icon" aria-label="Waving hand" role="img">&#128075;</span>
+            Hello Laravel!
+        </h1>
         <p>Welcome to Client-Server Technologies.</p>
 
         <div class="details">

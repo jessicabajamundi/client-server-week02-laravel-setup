@@ -129,6 +129,14 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 <img src="screenshot/vscode.png" alt="VS Code Laravel project screenshot" width="700">
 
+## Laravel Homepage
+
+The Laravel application was opened in the browser to confirm that the local development server was running successfully.
+
+**Screenshot:**
+
+<img src="screenshot/laravel_home_page.png" alt="Laravel homepage screenshot" width="700">
+
 ## Project Structure
 
 - **app/** - Contains the main application code, including models, controllers, and other PHP classes used to build the system.
