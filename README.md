@@ -1,5 +1,9 @@
 <h1 align="center">Hello Laravel: Client-Server Web Application</h1>
 
+# Project Summary
+
+This repository contains a basic Laravel project created for the Client-Server Technologies activity. It documents the installation process, development environment, screenshots, project structure, problems encountered, solutions, reflection, and references.
+
 # Introduction
 
 ## Brief Overview of Laravel
