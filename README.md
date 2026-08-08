@@ -63,6 +63,42 @@ The purpose of this project is to demonstrate the basic setup and use of a Larav
 
 <img src="screenshot/composer-version.png" alt="Composer version screenshot" width="700">
 
+## Step 3: Install Laravel
+
+1. Open Command Prompt.
+2. Check Composer:
+
+**composer -v**
+
+3. Install the Laravel Installer:
+
+**composer global require laravel/installer**
+
+4. Verify the Laravel Installer installation by running:
+
+**laravel -V**
+
+**Screenshot:**
+
+<img src="screenshot/laravel-version.png" alt="Laravel Installer version screenshot" width="700">
+
+## Step 4: Git Install
+
+1. Go to the official Git website.
+2. Open the installer and find the downloaded file:
+
+**Git-2.x.x-64-bit.exe**
+
+3. Install Git.
+
+For a simple installation, you can leave the default settings and keep clicking:
+
+**Next -> Next -> Next -> Install**
+
+4. Verify the installation by running:
+
+**git --version**
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
