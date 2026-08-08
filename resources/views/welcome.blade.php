@@ -80,6 +80,20 @@
         .label {
             font-weight: bold;
         }
+
+        @media (max-width: 520px) {
+            main {
+                padding: 32px 24px;
+            }
+
+            h1 {
+                font-size: 34px;
+            }
+
+            p {
+                font-size: 18px;
+            }
+        }
     </style>
 </head>
 <body>
