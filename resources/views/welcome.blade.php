@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello Laravel Client-Server Project</title>
+    <title>My First Laravel Application</title>
     <style>
         body {
             margin: 0;
@@ -51,7 +51,7 @@
 <body>
     <main>
         <h1>Hello Laravel!</h1>
-            <p>Client-Server Technologies Laravel Setup Project</p>
+        <p>Welcome to Client-Server Technologies.</p>
 
         <div class="details">
             <p class="label">Developed by: Jessica</p>
