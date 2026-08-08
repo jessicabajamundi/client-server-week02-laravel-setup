@@ -171,10 +171,6 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 The solution I used was to use AI for assistance. I also watched clips on TikTok and YouTube about how to properly install the required software.
 
-## Submission Notes
-
-The project includes a Laravel application, installation documentation, screenshot evidence, problem and solution notes, reflection, references, and meaningful Git commit history. These files are organized to show the setup process and the completed client-server activity requirements.
-
 ## Reflection
 
 In this project, I learned how to set up a Laravel application, but that is not all. I also learned the basic structure of a client-server web application. I learned that Laravel is not just a tool for writing PHP code, but a complete framework that organizes the development process. Through the installation and setup, I became more familiar with important tools such as PHP, Composer, Git, MySQL, and Visual Studio Code.
