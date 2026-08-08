@@ -117,6 +117,18 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 <img src="screenshot/mysql-version.png" alt="MySQL version screenshot" width="700">
 
+## Step 6: Install VS Code
+
+1. Go to the official VS Code website.
+2. Open the installer, go to your Downloads folder, and double-click the downloaded file.
+3. Accept the agreement and choose the installation location.
+4. Install Visual Studio Code.
+5. Open VS Code, then open the Laravel project.
+
+**Screenshot:**
+
+<img src="screenshot/vscode.png" alt="VS Code Laravel project screenshot" width="700">
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
