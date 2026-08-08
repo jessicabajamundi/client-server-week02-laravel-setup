@@ -103,6 +103,20 @@ For a simple installation, you can leave the default settings and keep clicking:
 
 <img src="screenshot/git-version.png" alt="Git version screenshot" width="700">
 
+## Step 5: MySQL Install
+
+1. Go to the official MySQL website.
+2. For an easy installation, you can use the Web Community installer.
+3. Install the requirements.
+4. Configure MySQL Server.
+5. Verify the installation by running:
+
+**mysql --version**
+
+**Screenshot:**
+
+<img src="screenshot/mysql-version.png" alt="MySQL version screenshot" width="700">
+
 ## References
 
 Laravel. (n.d.). *Installation*. Laravel documentation. Retrieved August 8, 2026, from https://laravel.com/docs/12.x
